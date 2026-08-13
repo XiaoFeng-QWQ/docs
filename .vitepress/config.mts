@@ -3,7 +3,7 @@ import { teekConfig } from './teekConfig'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/docs/',
+    base: '/',
     srcExclude: ['README.md'],
     extends: teekConfig,
     title: '小枫_QWQ 项目文档站',
