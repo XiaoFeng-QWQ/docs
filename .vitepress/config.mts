@@ -29,6 +29,7 @@ export default defineConfig({
                         { text: 'MD 按钮功能文档', link: '/图灵测试/md组件/02.MD按钮功能文档' },
                         { text: 'MD 完整演示', link: '/图灵测试/md组件/03.MD完整演示' },
                         { text: '音乐播放器', link: '/图灵测试/md组件/04.音乐播放器' },
+                        { text: '结构化消息解析 SDK', link: '/图灵测试/md组件/05.解析SDK' },
                     ]
                 },
             ],
