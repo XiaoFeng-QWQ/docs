@@ -25,11 +25,11 @@ export default defineConfig({
                 {
                     text: '聊天室 MD 组件',
                     items: [
-                        { text: '聊天室 MD 格式完整教程', link: '/图灵测试/md组件/01.聊天室MD格式完整教程' },
-                        { text: 'MD 按钮功能文档', link: '/图灵测试/md组件/02.MD按钮功能文档' },
-                        { text: 'MD 完整演示', link: '/图灵测试/md组件/03.MD完整演示' },
-                        { text: '音乐播放器', link: '/图灵测试/md组件/04.音乐播放器' },
-                        { text: '结构化消息解析 SDK', link: '/图灵测试/md组件/05.解析SDK' },
+                        { text: '聊天室 MD 格式完整教程（v3 标准）', link: '/图灵测试/md组件/01.v3MD格式完整教程' },
+                        { text: 'v3 MD 按钮功能文档', link: '/图灵测试/md组件/02.v3MD按钮与点击限制' },
+                        { text: 'v3 MD 完整功能演示', link: '/图灵测试/md组件/03.v3MD完整演示' },
+                        { text: 'v3 游戏模板（骰子·猜拳·谁是卧底）', link: '/图灵测试/md组件/04.v3游戏模板（骰子·猜拳·谁是卧底）' },
+                        { text: 'v3 高级组件教程（画板·游戏画板·动作链）', link: '/图灵测试/md组件/05.v3高级组件教程（画板·游戏画板·动作链）' },
                     ]
                 },
             ],
@@ -40,6 +40,7 @@ export default defineConfig({
                         { text: 'HTTP API', link: '/图灵测试/api接口/01.HTTP接口文档' },
                         { text: 'WebSocket API', link: '/图灵测试/api接口/02.WebSocket接口文档' },
                         { text: 'TuringTalk 接口完整文档', link: '/图灵测试/api接口/03.TuringTalk接口完整文档' },
+                        { text: '聊天室结构化消息解析', link: '/图灵测试/api接口/04.聊天室结构化消息解析' },
                     ]
                 },
             ],
