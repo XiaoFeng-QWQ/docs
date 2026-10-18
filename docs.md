@@ -32,3 +32,20 @@
 ### 插件文档
 
 - [插件机制功能概览](/XQF授权平台/01.插件机制)
+
+## WorkCode 插件开发文档（第三方项目）
+
+> 第三方项目 **WorkCode** 的插件（拓展）开发文档，WorkCode 官网 https://wkc.hay.hk/，所属 **HAY HK**（https://www.hay.hk/）· **M-Link HK**。本站仅作资料转载收录，**并非小枫_QWQ 自己的项目**。
+
+- [进入 WorkCode 插件开发文档](/WorkCode插件开发文档/)
+
+### 模块文档
+
+- [Manifest 配置](/WorkCode插件开发文档/manifest)
+- [链式调用与异步处理](/WorkCode插件开发文档/chain-and-async)
+- [debug 调试模块](/WorkCode插件开发文档/modules/debug)
+- [event 事件订阅模块](/WorkCode插件开发文档/modules/event)
+- [editor 编辑器模块](/WorkCode插件开发文档/modules/editor)
+- [layer 弹窗与提示模块](/WorkCode插件开发文档/modules/layer)
+- [fs 文件系统模块](/WorkCode插件开发文档/modules/fs)
+- [container 容器模块](/WorkCode插件开发文档/modules/container)

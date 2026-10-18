@@ -9,6 +9,14 @@
 | 图灵测试（对面是 AI 吗） | https://github.com/XiaoFeng-QWQ/TuringTalk |
 | XQF 授权平台 | https://codeberg.org/XiaoFengQWQ/xqacf |
 
+## 第三方项目文档
+
+| 项目 | 官网 / 所属 |
+|------|----------|
+| WorkCode 插件开发文档 | https://wkc.hay.hk/ · HAY HK（https://www.hay.hk/）· M-Link HK |
+
+> WorkCode 为 HAY HK / M-Link HK 旗下的项目，本站仅作文档转载收录，并非小枫_QWQ 自己的项目。
+
 ## 技术栈
 
 基于 [VitePress](https://vitepress.dev/) 与 [vitepress-theme-teek](https://github.com/vuejs/theme-teek) 构建。
@@ -36,6 +44,7 @@ npm run docs:preview
 ├── .vitepress/          # 站点配置与主题
 ├── 图灵测试/            # 图灵测试项目文档
 ├── XQF授权平台/         # XQF 授权平台项目文档
+├── WorkCode插件开发文档/ # WorkCode 插件开发文档（第三方项目）
 ├── index.md             # 首页
 ├── docs.md              # 文档总览
 └── about.md             # 关于页

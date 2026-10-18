@@ -24,4 +24,9 @@ features:
     details: 插件机制、Hook 事件等文档
     link: /XQF授权平台/
     linkText: 查看文档
+  - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/></svg>'
+    title: WorkCode 插件开发文档
+    details: 第三方项目 WorkCode（HAY HK · M-Link HK）的插件拓展开发文档
+    link: /WorkCode插件开发文档/
+    linkText: 查看文档
 ---

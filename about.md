@@ -16,6 +16,9 @@
   - 项目仓库：https://github.com/XiaoFeng-QWQ/TuringTalk
 - **[XQF 授权平台](/XQF授权平台/)**：插件机制文档
   - 项目仓库：https://codeberg.org/XiaoFengQWQ/xqacf
+- **[WorkCode 插件开发文档](/WorkCode插件开发文档/)**：第三方项目 WorkCode 的插件（拓展）开发文档
+  - WorkCode 官网：https://wkc.hay.hk/
+  - 所属：HAY HK（https://www.hay.hk/）· M-Link HK（本站仅转载收录，并非小枫_QWQ 自己的项目）
 
 ## 相关链接
 

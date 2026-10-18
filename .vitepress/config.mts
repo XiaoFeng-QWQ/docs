@@ -52,6 +52,22 @@ export default defineConfig({
                         { text: '插件机制', link: '/XQF授权平台/01.插件机制' },
                     ]
                 },
+            ],
+            '/WorkCode插件开发文档/': [
+                {
+                    text: 'WorkCode 插件开发文档（第三方项目）',
+                    items: [
+                        { text: '文档首页', link: '/WorkCode插件开发文档/' },
+                        { text: 'Manifest 配置', link: '/WorkCode插件开发文档/manifest' },
+                        { text: '链式调用与异步处理', link: '/WorkCode插件开发文档/chain-and-async' },
+                        { text: 'debug 调试模块', link: '/WorkCode插件开发文档/modules/debug' },
+                        { text: 'event 事件订阅模块', link: '/WorkCode插件开发文档/modules/event' },
+                        { text: 'editor 编辑器模块', link: '/WorkCode插件开发文档/modules/editor' },
+                        { text: 'layer 弹窗与提示模块', link: '/WorkCode插件开发文档/modules/layer' },
+                        { text: 'fs 文件系统模块', link: '/WorkCode插件开发文档/modules/fs' },
+                        { text: 'container 容器模块', link: '/WorkCode插件开发文档/modules/container' },
+                    ]
+                },
             ]
         },
 
